@@ -5,11 +5,11 @@
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  GIT : https://github.com/RenderBolt96/Custom-Discord-Bot-Status
+  DISCORD SERVER : https://discord.com/invite/tzRZX9wCCE
+  YOUTUBE : https://www.youtube.com/channel/UCfWptE6LOoRfC45w6ynlVZA
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by RenderBolt
  * **********************************************
  */
 
@@ -59,11 +59,11 @@ async function login() {
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+GIT : https://github.com/RenderBolt96/Custom-Discord-Bot-Status
+  DISCORD SERVER : https://discord.com/invite/tzRZX9wCCE
+  YOUTUBE : https://www.youtube.com/channel/UCfWptE6LOoRfC45w6ynlVZA
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by RenderBolt
  * **********************************************
  */
 
@@ -92,7 +92,7 @@ function updateStatusAndSendMessages() {
 
 client.once('ready', () => {
   console.log(`\x1b[36m%s\x1b[0m`, `|    ✅ Bot is ready as ${client.user.tag}`);
-  console.log(`\x1b[36m%s\x1b[0m`, `|    ✨HAPPY NEW YEAR MY DEAR FAMILY`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    💗Etanie is so Sigma`);
   console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️WELCOME TO 2024`);
   updateStatusAndSendMessages();
 
@@ -110,10 +110,10 @@ login();
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+GIT : https://github.com/RenderBolt96/Custom-Discord-Bot-Status
+  DISCORD SERVER : https://discord.com/invite/tzRZX9wCCE
+  YOUTUBE : https://www.youtube.com/channel/UCfWptE6LOoRfC45w6ynlVZA
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by RenderBolt
  * **********************************************
  */
